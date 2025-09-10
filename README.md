@@ -1,6 +1,5 @@
-# Kubebuilder CronJob Controller Tutorial
+# Kubebuilder CronJob Controller 
 
-This guide walks through building and deploying a CronJob controller using Kubebuilder.
 
 ---
 
